@@ -1,9 +1,9 @@
 main:
   - title: "Publications"
-    url: /posts/
+    url: /publications/
   - title: "Projects"
-    url: /categories/
+    url: /projects/
   - title: "Teaching"
-    url: /tags/
+    url: /teaching/
   - title: "Conferences"
-    url: /about/
+    url: /conferences/
