@@ -1,6 +1,6 @@
 ---
-title: "Posts by Year"
-permalink: /posts/
+title: "Conferences"
+permalink: /conferences/
 layout: posts
 author_profile: true
 ---
