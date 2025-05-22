@@ -8,21 +8,19 @@ author_profile: true
 
 # Curriculum Vitae – Dr. Paula Musuva
 
-[Download PDF version](../assets/files/Dr_Paula_Musuva_CV.pdf){: .btn .btn--primary}
-
 ---
 
 ## 🎓 Education
 
 - **PhD in Information Systems**, University of Nairobi  
 - **MSc in Network Systems**, University of Sunderland, UK – *Distinction*  
-- **BSc in Computer Science**, Jomo Kenyatta University of Agriculture and Technology – *Babaroa Trust Award Winner*
+- **BSc in Computer Science**, Jomo Kenyatta University of Agriculture and Technology – * First Class Honours & Babaroa Trust Award Winner*
 
 ---
 
 ## 📜 Certifications
 
-Over 20 industry certifications in:
+Over 20 industry certifications available on Credly: https://www.credly.com/users/pmusuva
 
 - Information Security
 - IT Governance, Risk, and Compliance (GRC)
@@ -38,7 +36,8 @@ Over 20 industry certifications in:
 *United States International University – Africa*  
 - Over 13 years of teaching experience  
 - Trained 3,900+ undergraduate and postgraduate students  
-- Supervised 22 MSc students and currently supervising 6 PhD candidates  
+- Supervised 22 MSc students 
+- Currently supervising 6 PhD candidates  
 - Spearheaded the development of the MSc in Information Security program (MSEC)  
 - Contributed to curriculum review and quality improvement for IT and CS programs  
 
