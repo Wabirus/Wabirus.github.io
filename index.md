@@ -1,12 +1,10 @@
 ---
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
-author_profile: false
+author_profile: true
 ---
 
 # Curriculum Vitae – Dr. Paula Musuva
 
----
 
 ## 🎓 Education
 
@@ -14,7 +12,7 @@ author_profile: false
 - **MSc in Network Systems**, University of Sunderland, UK – *Distinction*  
 - **BSc in Computer Science**, Jomo Kenyatta University of Agriculture and Technology – * First Class Honours & Babaroa Trust Award Winner*
 
----
+
 
 ## 📜 Certifications
 
