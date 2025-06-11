@@ -1,6 +1,7 @@
 main:
+  - title: "About"
+    url: /
   - title: "Projects"
-    url: /Projects/
-  - title: "Testmonials"
-    url: /Testimonials/
-  
+    url: /projects/
+  - title: "Contact"
+    url: /contact/
