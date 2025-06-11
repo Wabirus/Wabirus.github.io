@@ -1,99 +1,73 @@
 ---
 layout: single
+title: "Curriculum Vitae – Samuel Wabiru"
 author_profile: true
+permalink: /
 ---
 
-# Curriculum Vitae – Dr. Paula Musuva
+## 👤 Professional Profile
 
+Dynamic and results-driven Service Account Manager with 8+ years’ experience in client relationship management, B2B sales, and project execution in telecommunications and SaaS environments. Proven record in customer success, stakeholder engagement, and strategic growth.
+
+---
 
 ## 🎓 Education
 
-- **PhD in Information Systems**, University of Nairobi  
-- **MSc in Network Systems**, University of Sunderland, UK – *Distinction*  
-- **BSc in Computer Science**, Jomo Kenyatta University of Agriculture and Technology – * First Class Honours & Babaroa Trust Award Winner*
+
+- **BSc. Business Information Technology**, Meru University 
 
 
+## 🎓 Certifications
 
-## 📜 Certifications
-
-Over 20 industry certifications available on Credly: https://www.credly.com/users/pmusuva
-
-- Information Security
-- IT Governance, Risk, and Compliance (GRC)
-- Information Systems Audit
-- Digital Forensics
-- IT Service Management (ITIL)
+- **AWS Cloud Practitioner**, AWS/ReStart Program
+- **Artificial Intelligence Career Essentials**, ALX 
+- **Certificate in Digital Marketing**, Emobilis Institute
 
 ---
 
-## 👩‍🏫 Academic Experience
+## 🛠 Skills
 
-**Assistant Professor**, Information Systems  
-*United States International University – Africa*  
-- Over 13 years of teaching experience  
-- Trained 3,900+ undergraduate and postgraduate students  
-- Supervised 22 MSc students 
-- Currently supervising 6 PhD candidates  
-- Spearheaded the development of the MSc in Information Security program (MSEC)  
-- Contributed to curriculum review and quality improvement for IT and CS programs  
-
----
-
-## 🧪 Research & Publications
-
-- 18 peer-reviewed journal articles and conference papers  
-- Key research areas:
-  - Cybersecurity education
-  - Governance, Risk and Compliance
-  - Vulnerability analysis
-  - Digital forensics
-  - Cyber hygiene and awareness  
-- Research collaborations with:
-  - Serianu Limited
-  - SWIFT Institute
-  - KICTANet
-  - CIRI (Centre for Informatics Research and Innovation)
-
----
-
-## 🌍 Community Engagement
-
-**Cyber Shujaa Program**, Co-Founder & Curriculum Director  
-- A consortium of Serianu Ltd, USIU-Africa, and Kenya Bankers Association  
-- Trained 2,550 youth across Kenya (41% women)  
-- 80%+ job placement rate in cybersecurity roles  
-- Developed and certified courses for roles such as security analyst, ethical hacker, GRC auditor, and DPO  
-
-**Tatua Digital Resilience Center**  
-- Co-developed a 5-chapter Cyber Hygiene Curriculum  
-- Promoted digital safety and resilience among citizens
-
-**Consulting & Advocacy**  
-- ICT policy advisor and consultant for [KICTANet](https://www.kictanet.or.ke)  
-- Contributor to national cybersecurity strategies and public interest tech initiatives  
+- Cloud computing practitioner
+- B2B & B2C Relationship Management
+- CRM Systems (Sage, Salesforce)
+- Telecom & SaaS Expertise
+- Project Coordination
+- Cloud and Network Security
+- Stakeholder Engagement
 
 ---
 
 ## 💼 Professional Experience
 
-**Senior Technology Consultant**, Deloitte East Africa  
-**Service Delivery Team Leader**, IT Service Management (UK, Kenya, Uganda, Ethiopia)  
-- Implemented enterprise networks and security systems across Africa  
-- Led ITIL-based service management implementations  
-- Mentored professionals and guided corporate cybersecurity transformations
+### **Project Lead – Quality Control**, Bible Translation & Literacy 
+- Supervised distribution and quality of print and branded materials.
+- Coordinated multi-site merchandise delivery and tracked campaign logistics.
+- Managed procurement and generated donor reports.
+
+### **Project Assistant**, Bayobab Kenya 
+- Coordinated infrastructure project delivery timelines.
+- Assisted in customer onboarding, SLA compliance, and fiber deployment.
+
+### **Marketing Executive**, AMREF Housing 
+- Executed go-to-market strategies and led sales campaigns.
+- Reported on funnel metrics and advised on product development.
+
+
+
+### **Field Sales Representative**, ABC Expat 
+- Built networks for client acquisition and market entry support.
+- Provided compliance consulting and sales reporting.
+
+### **Sales & Marketing Manager**, Greign Estates Ltd 
+- Led digital campaigns; implemented CRM and GTM strategies.
+- Achieved 45% revenue growth through strategic initiatives.
 
 ---
 
-## 🤝 Collaborations & Memberships
+## 🏆 Achievements
 
-- Challenge Fund for Youth Employment (CFYE)
-- Kenya Bankers Association (KBA)
-- Serianu Research Fellowship Program
-- Centre for Informatics Research and Innovation (CIRI)
+- Reduced onboarding time by 20% via workflow documentation.
+- Developed client feedback systems improving retention.
+- Established sales SOPs aligning team with revenue goals.
 
 ---
-
-> Passionate about mentoring the next generation of cybersecurity leaders and advancing Africa’s capacity in digital security, education, and policy.
-
-[Back to Home](/)
-✅
