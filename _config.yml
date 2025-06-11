@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Samuel Wabiru"
+title: Samuel Wabiru
 email: wabirus@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Project Manager | Cloud & Network Security |
-# twitter_username: pmusuva
+# twitter_username: 
 github_username: Wabirus
-minimal_mistakes_skin: air # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 
 # Build settings
@@ -57,9 +57,9 @@ plugins:
 
 author:
   name   : "Samuel Wabiru"
-  avatar : "/assets/images/photo.jpg"
+  avatar : "/assets/images/photo.JPG"
   bio    : "Project Manager • Client Relationship Specialist • Telecom & SaaS Enthusiast."
- links:
+  links:
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:wabirus@gmail.com"
@@ -67,19 +67,24 @@ author:
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/samuel-wabiru/"
     - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/Wabirus"
-   
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Wabirus/"
+    #- label: "Cyber Shujaa"
+     # icon: "fas fa-shield-alt"
+      #url: "https://cybershujaa.co.ke/"
 
 footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/samuel-wabiru/"
+      url: "https://www.linkedin.com/in/samuel-wabiru/
     - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/Wabirus"
-   
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Wabirus/"
+    #- label: "Google Scholar"
+     # icon: "fas fa-fw fa-link"
+      # url: "https://scholar.google.com/citations?user=CLzA3BQAAAAJ&hl=en"
+
 defaults:
   # _posts
   - scope:
