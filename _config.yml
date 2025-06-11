@@ -57,9 +57,9 @@ plugins:
 
 author:
   name   : "Samuel Wabiru"
-  avatar : "/assets/images/photo.JPG"
+  avatar : "/assets/images/photo.jpg"
   bio    : "Project Manager • Client Relationship Specialist • Telecom & SaaS Enthusiast."
-  links:
+ links:
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:wabirus@gmail.com"
@@ -67,24 +67,19 @@ author:
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/samuel-wabiru/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Wabirus/"
-    #- label: "Cyber Shujaa"
-     # icon: "fas fa-shield-alt"
-      #url: "https://cybershujaa.co.ke/"
+      icon: "fab fa-github"
+      url: "https://github.com/Wabirus"
+   
 
 footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/samuel-wabiru/
+      url: "https://www.linkedin.com/in/samuel-wabiru/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Wabirus/"
-    #- label: "Google Scholar"
-     # icon: "fas fa-fw fa-link"
-      # url: "https://scholar.google.com/citations?user=CLzA3BQAAAAJ&hl=en"
-
+      icon: "fab fa-github"
+      url: "https://github.com/Wabirus"
+   
 defaults:
   # _posts
   - scope:
