@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Samuel Wabiru"
   avatar : "/assets/images/photo.png"
-  bio    : "Project Manager • Client Relationship Specialist • Telecom & SaaS Enthusiast."
+  bio    : "Project Manager • Cloud & Network Security • Client Relationship Specialist."
   links:
     - label: "Email"
       icon: "fas fa-envelope"
