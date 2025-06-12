@@ -69,9 +69,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Wabirus/"
-    #- label: "Cyber Shujaa"
-     # icon: "fas fa-shield-alt"
-      #url: "https://cybershujaa.co.ke/"
+   
 
 footer:
   links:
@@ -81,9 +79,7 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Wabirus/"
-    #- label: "Google Scholar"
-     # icon: "fas fa-fw fa-link"
-      # url: "https://scholar.google.com/citations?user=CLzA3BQAAAAJ&hl=en"
+    
 
 defaults:
   # _posts
