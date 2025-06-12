@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Samuel Wabiru"
-  avatar : "/assets/images/photo.JPG"
+  avatar : "/assets/images/photo.jpg"
   bio    : "Project Manager • Client Relationship Specialist • Telecom & SaaS Enthusiast."
   links:
     - label: "Email"
